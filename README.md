@@ -4,14 +4,14 @@
 
 Me chamo João Gabriel Lima lopes, tenho 17 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Proz educação.
  <p>
- <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+  <a href="https://github.com/joaodevlopes?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/joaodevlopes?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -19,6 +19,7 @@ Me chamo João Gabriel Lima lopes, tenho 17 anos e sou natural de Minas Gerais. 
         />
     </a>
 </p>
+
 
 ---
 
