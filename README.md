@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo João Gabriel Lima lopes, tenho 17 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Proz educação.
+Me chamo João Gabriel Lima lopes, tenho 18 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Proz educação.
  <p>
   <a href="https://github.com/joaodevlopes?tab=repositories&sort=stargazers">
         <img 
