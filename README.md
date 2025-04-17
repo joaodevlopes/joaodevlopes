@@ -50,14 +50,7 @@ Me chamo João Gabriel Lima lopes, tenho 18 anos e sou natural de Minas Gerais. 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
+
 
 
 <img 
@@ -71,11 +64,16 @@ Me chamo João Gabriel Lima lopes, tenho 18 anos e sou natural de Minas Gerais. 
 
 <img 
     align="left" 
-    alt="Tailwind"
-    title="Tailwind" 
+    alt="C#" 
+    title="C#"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+    src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+
+
+
+
           
 <img 
     align="left" 
