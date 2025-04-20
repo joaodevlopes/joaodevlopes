@@ -1,6 +1,6 @@
 # 👨‍💻 João Gabriel
 
-**`Desenvolvedor FrontEnd`**
+**`Desenvolvedor Full Stack em Formação`**
 
 Me chamo João Gabriel Lima lopes, tenho 18 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Proz educação.
  <p>
