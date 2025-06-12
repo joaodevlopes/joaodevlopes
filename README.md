@@ -2,7 +2,13 @@
 
 **`Desenvolvedor Full Stack em Formação`**
 
-Me chamo João Gabriel Lima lopes, tenho 18 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Proz educação.
+👋 Prazer, eu sou o João!
+💻 Estudante de Desenvolvimento de Sistemas apaixonado por tecnologia.
+Atualmente focado em Front-end com HTML, CSS, JavaScript e Next, mas também explorando o mundo do Back-end com Node.js, MySQL e C#.
+
+Gosto de aprender na prática, criando projetos reais que me ajudam a evoluir como desenvolvedor. Aqui no meu GitHub você vai encontrar alguns desses projetos, feitos com dedicação e vontade de melhorar sempre.
+
+Sinta-se à vontade para explorar, dar feedback ou trocar uma ideia! 🚀
  <p>
   <a href="https://github.com/joaodevlopes?tab=repositories&sort=stargazers">
         <img 
