@@ -1,6 +1,6 @@
 # 👨‍💻 João Gabriel
 
-**`Desenvolvedor Full Stack em Formação`**
+**`Desenvolvedor Front end`**
 
 👋 Prazer, eu sou o João!
 💻 Estudante de Desenvolvimento de Sistemas apaixonado por tecnologia.
