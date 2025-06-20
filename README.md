@@ -66,6 +66,15 @@ Sinta-se à vontade para explorar, dar feedback ou trocar uma ideia! 🚀
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
+ <img
+  align="left" 
+    alt="figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+  />
+
 <img 
     align="left" 
     alt="Java"
@@ -97,14 +106,7 @@ Sinta-se à vontade para explorar, dar feedback ou trocar uma ideia! 🚀
 
 
 
- <img
-  align="left" 
-    alt="figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-  />
+
           
 
 <br/>
