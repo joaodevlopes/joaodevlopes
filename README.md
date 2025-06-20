@@ -4,7 +4,7 @@
 
 👋 Prazer, eu sou o João!
 💻 Estudante de Desenvolvimento de Sistemas apaixonado por tecnologia.
-Atualmente focado em Front-end com HTML, CSS, JavaScript e Next, mas também explorando o mundo do Back-end com Java, MySQL e C#.
+Atualmente focado em Front-end com HTML, CSS, JavaScript e React, mas também explorando o mundo do Back-end com Java e MySQL.
 
 Gosto de aprender na prática, criando projetos reais que me ajudam a evoluir como desenvolvedor. Aqui no meu GitHub você vai encontrar alguns desses projetos, feitos com dedicação e vontade de melhorar sempre.
 
