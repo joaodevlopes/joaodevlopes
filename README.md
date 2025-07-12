@@ -90,7 +90,7 @@ Sinta-se à vontade para explorar, dar feedback ou trocar uma ideia! 🚀
     title="Springboot" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
 
