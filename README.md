@@ -1,4 +1,4 @@
-# 👨‍💻 João Gabriel
+# 👨‍💻 João Gabriel Lima Lopes
 
 **`Desenvolvedor de Software`**
 
