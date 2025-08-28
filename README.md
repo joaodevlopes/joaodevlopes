@@ -3,12 +3,13 @@
 **`Desenvolvedor de Software`**
 
 👋 Prazer, eu sou o João!
-💻 Estudante de Desenvolvimento de Sistemas apaixonado por tecnologia.
-Atualmente focado no aprendizado no backend com Java e Springboot mas também tenho conhecimento em front end com HTML, CSS e JavaScript e o básico de React.
 
-Gosto de aprender na prática, criando projetos reais que me ajudam a evoluir como desenvolvedor. Aqui no meu GitHub você vai encontrar alguns desses projetos, feitos com dedicação e vontade de melhorar sempre.
+💻 Desenvolvedor Back End com foco em Java e Spring Boot, com 1 ano e 5 meses de experiência em projetos e cursos práticos. Tenho conhecimentos em APIs REST, bancos de dados relacionais (MySQL) e versionamento com Git/GitHub.
+Também possuo experiência em HTML, CSS, JavaScript e o básico de React, além de familiaridade com metodologias ágeis e boas práticas de programação.
 
-Sinta-se à vontade para explorar, dar feedback ou trocar uma ideia! 🚀
+🚀 Aqui no meu GitHub você encontra projetos que refletem minha evolução como desenvolvedor, sempre buscando aplicar na prática o que aprendo e criar soluções funcionais.
+
+📩 Estou aberto a conexões, feedbacks e oportunidades!
  <p>
   <a href="https://github.com/joaodevlopes?tab=repositories&sort=stargazers">
         <img 
