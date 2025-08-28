@@ -10,24 +10,6 @@ Também possuo experiência em HTML, CSS, JavaScript e o básico de React, além
 🚀 Aqui no meu GitHub você encontra projetos que refletem minha evolução como desenvolvedor, sempre buscando aplicar na prática o que aprendo e criar soluções funcionais.
 
 📩 Estou aberto a conexões, feedbacks e oportunidades!
- <p>
-  <a href="https://github.com/joaodevlopes?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/joaodevlopes?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/joaodevlopes?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/joaodevlopes?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
