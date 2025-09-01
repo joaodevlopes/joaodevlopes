@@ -16,6 +16,34 @@ Também possuo experiência em HTML, CSS, JavaScript e o básico de React, além
 
 <img 
     align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Springboot"
+    title="Springboot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+
+
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -58,33 +86,7 @@ Também possuo experiência em HTML, CSS, JavaScript e o básico de React, além
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
   />
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
-/>
 
-<img 
-    align="left" 
-    alt="Springboot"
-    title="Springboot" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-
-
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
 
          
 <img 
@@ -97,9 +99,6 @@ Também possuo experiência em HTML, CSS, JavaScript e o básico de React, além
 />
 
 
-
-
-          
 
 <br/>
 <br/>
