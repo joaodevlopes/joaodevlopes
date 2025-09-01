@@ -1,6 +1,6 @@
 # 👨‍💻 João Gabriel Lima Lopes
 
-**`Desenvolvedor de Software`**
+**`Desenvolvedor Backend`**
 
 👋 Prazer, eu sou o João!
 
