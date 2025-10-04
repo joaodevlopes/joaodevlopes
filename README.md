@@ -4,7 +4,7 @@
 
 👋 Prazer, eu sou o João!
 
-💻 Desenvolvedor Back End com foco em Java e Spring Boot, com 1 ano e 6 meses de experiência em projetos e cursos práticos. Tenho conhecimentos em APIs REST, bancos de dados relacionais (MySQL) e versionamento com Git/GitHub.
+💻 Desenvolvedor Back End com foco em Java e Spring Boot, com 1 ano e 7 meses de experiência em projetos e cursos práticos. Tenho conhecimentos em APIs REST, bancos de dados relacionais (MySQL) e versionamento com Git/GitHub.
 Também possuo experiência em HTML, CSS, JavaScript e o básico de React, além de familiaridade com metodologias ágeis e boas práticas de programação.
 
 🚀 Aqui no meu GitHub você encontra projetos que refletem minha evolução como desenvolvedor, sempre buscando aplicar na prática o que aprendo e criar soluções funcionais.
