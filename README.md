@@ -13,7 +13,6 @@ Também possuo experiência em HTML, CSS, JavaScript e o básico de React, além
 ---
 
 ### 🤖 Linguagens e Tecnologias
-<br>
 
 <img 
     align="left" 
