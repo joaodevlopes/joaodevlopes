@@ -32,6 +32,16 @@ Também possuo experiência em HTML, CSS, JavaScript e o básico de React, além
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="wordpress"
+    title="Wordpress" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
+/>
+
+
 
 <img 
     align="left" 
