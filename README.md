@@ -51,6 +51,15 @@ Aqui você encontrará projetos que mostram minha evolução prática, sempre bu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+
 
 
 <img 
@@ -78,6 +87,8 @@ Aqui você encontrará projetos que mostram minha evolução prática, sempre bu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+
 
         
 <img 
