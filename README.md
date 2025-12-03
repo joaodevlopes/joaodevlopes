@@ -114,8 +114,15 @@ Também possuo experiência em HTML, CSS, JavaScript e o básico de React, além
 <br/>
 
 ### 📊 Estatísticas
+<p>
+    
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodevlopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodevlopes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</p>
 </div>
 
