@@ -2,15 +2,25 @@
 
 **`Desenvolvedor Backend`**
 
-👋 Prazer, eu sou o João!
+👋 Olá! Eu sou o João Gabriel
 
-💻 Desenvolvedor Back End com foco em Java e Spring Boot, com + de 1 ano de experiência em projetos e cursos práticos. Tenho conhecimentos em APIs REST, bancos de dados relacionais (MySQL) e versionamento com Git/GitHub.
-Também possuo experiência em HTML, CSS, JavaScript e o básico de React, além de familiaridade com metodologias ágeis e boas práticas de programação.
+Desenvolvedor Backend Java, focado em criar APIs REST com Spring Boot, estruturando aplicações de forma limpa e escalável.
 
-🚀 Aqui no meu GitHub você encontra projetos que refletem minha evolução como desenvolvedor, sempre buscando aplicar na prática o que aprendo e criar soluções funcionais.
+Tenho experiência com:
 
-📩 Estou aberto a conexões, feedbacks e oportunidades!
----
+Java + Spring Boot (Web, Validation, JPA, DTOs, exceções, camadas)
+
+MySQL para persistência de dados
+
+Swagger para documentação
+
+Git/GitHub para versionamento
+
+HTML, CSS e JavaScript para compreensão do fluxo front-end → back-end
+
+Aqui você encontrará projetos que mostram minha evolução prática, sempre buscando aplicar boas práticas e aprender tecnologias que me tornam um desenvolvedor mais completo.
+
+🚀 Meu foco atual: aprofundar Spring Boot, testes e arquitetura para atuar como Backend Java profissional.
 
 ### 🤖 Linguagens e Tecnologias
 
