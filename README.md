@@ -13,7 +13,7 @@ Aqui você encontra projetos que mostram minha evolução e aprendizado contínu
 - **Git/GitHub** para versionamento
 - Noções de **HTML, CSS e JavaScript** para integração front → back
 
-🎯 **Atualmente estudando:** testes, arquitetura e aprimoramento do ecossistema Spring.
+🎯 **Atualmente estudando:** erros, testes, arquitetura e aprimoramento do ecossistema Spring.
 
 ---
 
