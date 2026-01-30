@@ -1,17 +1,21 @@
 # 👨‍💻 João Gabriel Lima Lopes
 **Desenvolvedor Backend Java**
 
-Sou focado em construir APIs REST bem estruturadas usando **Java + Spring Boot**, priorizando boas práticas, código limpo e arquitetura organizada.  
-Aqui você encontra projetos que mostram minha evolução e aprendizado contínuo.
+Desenvolvedor backend com foco na construção de APIs REST utilizando Java e Spring Boot.
+Trabalho com modelagem de dados, validações, documentação de APIs e boas práticas de organização de código, buscando sempre soluções simples, claras e próximas da realidade do mercado.
 
 ---
 
 ### 🛠 Habilidades Principais
-- Desenvolvimento de APIs com **Spring Boot** (Web, Validation, JPA, DTOs, exceções)
-- **MySQL** para persistência de dados
-- **Swagger/OpenAPI** para documentação
-- **Git/GitHub** para versionamento
-- Noções de **HTML, CSS e JavaScript** para integração front → back
+- Desenvolvimento de APIs REST com Java e Spring Boot (Web, Validation, JPA, DTOs, tratamento de exceções)
+
+- Modelagem e persistência de dados com MySQL
+
+- Documentação de APIs com Swagger / OpenAPI
+
+- Controle de versão com Git e GitHub
+
+- Noções de frontend para integração front–back (HTML, CSS, JavaScript)
 
 ---
 
