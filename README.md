@@ -7,7 +7,7 @@ Trabalho com modelagem de dados, validações, documentação de APIs e boas pr�
 ---
 
 ### 🛠 Habilidades Principais
-- Desenvolvimento de APIs REST com Java e Spring Boot 
+- Desenvolvimento de APIs REST com Java e Spring Boot
 
 - Modelagem e persistência de dados utilizando MySQL ou PostgreSQL
 
