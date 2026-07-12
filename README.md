@@ -1,18 +1,15 @@
 # 👨‍💻 João Gabriel Lima Lopes
 
-**Estagiário de Dados | Python | Pandas | ETL | SQL | Git & GitHub | Java | Spring Boot**
+**Desenvolvedor | Java, Spring Boot, Python, React, APIs**
 
-Desenvolvedor com foco em construir soluções simples, bem estruturadas e que resolvem problemas reais.
-Trabalho com backend em Java e Spring Boot e com criação de sites profissionais para clientes reais —
-do levantamento de requisitos até a entrega final.
-
-Cursando Análise e Desenvolvimento de Sistemas no IFMG.
+Construo ferramentas de automação e aplicações web — do backend à interface — com vivência prática em dados no dia a dia como estagiário na área.
 
 ---
 
 ### 🛠 Habilidades
 
 - Desenvolvimento de APIs REST com Java e Spring Boot
+- Automação de processos e ferramentas internas com Python
 - Criação de sites institucionais e landing pages profissionais
 - Modelagem e persistência de dados com MySQL e PostgreSQL
 - Documentação de APIs com Swagger / OpenAPI
@@ -41,6 +38,7 @@ Cursando Análise e Desenvolvimento de Sistemas no IFMG.
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=joaodevlopes&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
+
 <p align="center">
   <em>Keep building. One commit at a time.</em> 🟩
 </p>
