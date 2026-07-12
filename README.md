@@ -1,6 +1,6 @@
 # 👨‍💻 João Gabriel Lima Lopes
 
-**Desenvolvedor | Java · Spring Boot · Web**
+**Estagiário de Dados | Python | Pandas | ETL | SQL | Git & GitHub | Java | Spring Boot**
 
 Desenvolvedor com foco em construir soluções simples, bem estruturadas e que resolvem problemas reais.
 Trabalho com backend em Java e Spring Boot e com criação de sites profissionais para clientes reais —
