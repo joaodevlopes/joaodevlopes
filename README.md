@@ -2,7 +2,7 @@
 
 **Dados & Backend | Python · SQL · Java · Spring Boot · IA aplicada**
 
-Estagiário de dados. No dia a dia trabalho com Python, Pandas e SQL em rotinas de ETL, e uso IA para criar automações que agilizam tarefas do trabalho. Em paralelo, estudo desenvolvimento no SENAI e construo projetos de portfólio para evoluir em engenharia de dados e backend Java.
+Estagiário de dados. No dia a dia trabalho com Python, Pandas e SQL em rotinas de ETL, e uso IA para criar automações que agilizam tarefas do trabalho. Em paralelo construo projetos de portfólio para evoluir em engenharia de dados e backend Java.
 
 ---
 
