@@ -1,49 +1,62 @@
 # 👨‍💻 João Gabriel Lima Lopes
 
-**Dados & Backend | Python · SQL · Java · Spring Boot**
+**Dados & Backend | Python · SQL · Java · Spring Boot · IA aplicada**
 
-Estagiário de dados: no dia a dia trabalho com Python, Pandas e SQL em rotinas de ETL. Em paralelo, construo APIs REST com Java e Spring Boot, com foco em segurança, validação e código organizado.
+Estagiário de dados. No dia a dia trabalho com Python, Pandas e SQL em rotinas de ETL, e uso IA para criar automações que agilizam tarefas do trabalho. Em paralelo, estudo desenvolvimento no SENAI e construo projetos de portfólio para evoluir em engenharia de dados e backend Java.
 
 ---
 
 ### 📊 Dados
 
-- Extração e tratamento de dados com Python e Pandas (ETL)
-- Consultas e modelagem de dados com SQL (PostgreSQL e MySQL)
+- Extração, tratamento e carga de dados com Python e Pandas (ETL)
+- Consultas SQL e modelagem de dados com PostgreSQL e MySQL
 - Consumo de APIs públicas e organização de dados em camadas (Bronze, Silver, Gold)
+
+### 🤖 IA e automação
+
+- Automações com Python e IA para reduzir trabalho manual e repetitivo
+- Desenvolvimento com apoio de assistentes de IA, sempre revisando e testando o que entra no código
+- Interesse em IA aplicada a dados: assistentes que respondem com informações verificáveis
 
 ### ☕ Backend
 
-- APIs REST com Java 21 e Spring Boot
-- Autenticação com Spring Security e JWT, senhas com BCrypt
-- Validação, DTOs e tratamento global de erros
+- APIs REST com Java e Spring Boot
 - Arquitetura em camadas (Controller, Service, Repository)
+- Validação de dados, DTOs e tratamento de erros
 - Documentação de APIs com Swagger / OpenAPI
+
+### 🌐 Web
+
+- Sites e landing pages com HTML, CSS, JavaScript e TypeScript para pequenos negócios
+
+---
 
 ### 🔭 Agora
 
-Construindo o **[Restaurant Data Copilot](https://github.com/joaodevlopes/restaurant-data-copilot)**: pipeline de dados com APIs públicas de Belo Horizonte, camadas Bronze, Silver e Gold, PostgreSQL e uma API Spring Boot.
+- Construindo o **[Restaurant Data Copilot](https://github.com/joaodevlopes/restaurant-data-copilot)**: pipeline de dados com APIs públicas de Belo Horizonte, camadas Bronze, Silver e Gold, PostgreSQL e uma API Spring Boot
+- Estudando: SQL analítico, arquitetura de dados em camadas, Spring Security e JWT
 
 ---
 
 ### 🚀 Tecnologias
 
-<p>
-  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>
-  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas"/>
-  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
-  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>
-  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java"/>
-  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot"/>
-  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>
-</p>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<br/><br/>
 
 ---
 
 ### 🟩 Latest Commit Energy
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaodevlopes&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff&hide_rank=true&hide=prs,issues,contribs" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=joaodevlopes&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
 
 <p align="center">
@@ -55,3 +68,4 @@ Construindo o **[Restaurant Data Copilot](https://github.com/joaodevlopes/restau
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaogabriellimalopes)
+[![Site](https://img.shields.io/badge/dowebsolucoes.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dowebsolucoes.com/)
